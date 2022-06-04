@@ -13,3 +13,4 @@ The page loads quickly and to use the filter boxes the user can type freely in a
 <img src="new table design.png">
 
 ## Summary
+Overall the web page loads and filters data according to the original design intent.  While it is visually appealing and good readability there are several improvements tha can be incorprated in the next revision.
