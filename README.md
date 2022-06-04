@@ -10,4 +10,6 @@ The UFO web page design consist of three main components.  First, the page has a
 ### Web Page Responsiveness
 The page loads quickly and to use the filter boxes the user can type freely in any box and tab or enter to invoke the filter.  The table updates quickly based on user specified filters.  If the user want to remove a filter they need to blank out the selected field and tab or enter to update the table.  A filtered view of the table is shown in the figure below.
 
+<img src="new table design.png">
+
 ## Summary
