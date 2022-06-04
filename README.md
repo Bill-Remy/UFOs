@@ -5,7 +5,7 @@ The UFO web project was created to provied users a page to view sightings.  The 
 ### Web Page Design
 The UFO web page design consist of three main components.  First, the page has a header or overview section that allows for an introductory paragraph abou the website.  The second component of the page is a table listing all reportd UFO sightings with date, city, state, country,  shape, duration and comments.  This information is presented in a table format. The third component is a section next to the table for filtering the table to find specific sighting of interest to the user.  The entire page has been formatted with a black background and white text for reability.  A graphic of the web page is shown below.
 
-<img src="Web_page_overview.png" alt"Web_page_overview.png">
+<img src="Web_page_overview.png" alt="page view">
 
 ### Web Page Responsiveness
 The page loads quickly and to use the filter boxes the user can type freely in any box and tab or enter to invoke the filter.  The table updates quickly based on user specified filters.  If the user want to remove a filter they need to blank out the selected field and tab or enter to update the table.  A filtered view of the table is shown in the figure below.
