@@ -13,4 +13,8 @@ The page loads quickly and to use the filter boxes the user can type freely in a
 <img src="Filtered_ufo_table.png">
 
 ## Summary
-Overall the web page loads and filters data according to the original design intent.  While it is visually appealing and good readability there are several improvements tha can be incorprated in the next revision.
+Overall the web page loads and filters data according to the original design intent.  While it is visually appealing and readability is good, there are several improvements tha can be incorprated in the next revision.
+#### Visual and Readability Improvement
+First the header and title of the web page should be resized and moved to the center.  It lacks initial appeal.  Some graphics or animation would also help with the inital visual look.  Second the text paragraph should be reduced and captured in some bullets with graphics or other references.  The amount of text is overwhelming and does not add to the appeal of the page.
+#### Table Presentation and Filtering
+The table should be presented with the abilty to index through sub-pages fo the table instead of endless scrolling.  There are too many records to effectively present on a single page and the user can lose the filter elements while scrolling.  It would also likely be helpful to convert some of the filters to sorting icons at each column so the user could sort on a given column in addition to filtering.  The filters are very basic and a user can enter nonsensical data without a quality check. This needs to be corrected with appropriate guidance on filter content or feedback.  Another nice feature might be to add a "Submit"  and "Clear Filters" buttons to manage the filtering process instead of the current method.  
